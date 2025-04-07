@@ -18,8 +18,6 @@ The project is part of a Big Data assignment and includes the following:
 
 ```bash
 📁 project-root/
-│
-├── 2nd_code.pdf                  # Main code notebook with all outputs
 ├── Report.pdf                    # Sample report template
 ├── BigData.ipynb (converted)    # Original code in Colab format
 ├── README.md                     # This file
